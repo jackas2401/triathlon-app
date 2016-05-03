@@ -1,2 +1,0 @@
-# triathlon-app
-Triathlon Application
